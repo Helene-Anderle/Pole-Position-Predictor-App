@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 st.title("Silverstone Analysis")
 
 # ---------------- IMAGE ----------------
-st.image("pages/silverstone.png", use_container_width=True)
+st.image("pages/silverstone.jpg", use_container_width=True)
 
 st.divider()
 
